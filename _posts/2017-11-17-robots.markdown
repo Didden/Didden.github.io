@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "What is robots.txt and how have I configured it for my site?"
+date:   2017-11-17 16:02:40 +0100
+categories: jekyll update
+---
+
+robots.txt is a textfile in which you specify whether or not a robot has permission to index your website. You can customise it however you want. You can allow the robots to look at parts of your website. Allow just Googles robots to look or allow everyone but Google if you so wish.
+
+__My robots.txt looks like this:__
+
+```
+User-agent: *
+
+Disallow: /
+```
+
+This means I disallow all robots from entering my website, so this means i'm safe from spambots and the likes right? Unfortunately not, malicious robots do not care about textfiles denying them entry.

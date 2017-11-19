@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "What is humans.txt and how have I configured it for my site?"
+date:   2017-11-17 18:33:21 +0100
+categories: jekyll update
+---
+
+humans.txt is a textfile in which you give credit to the people behind the website. You can include whoever you feel deserves it. Generally you include the developers, persons of note and some information about the website.
+
+__My humans.txt looks like this:__
+
+```
+/* TEAM */
+   
+                                
+Dev: Didrick Karlsson
+
+Contact: dk222id [at] student.lnu.se
+
+Github: http://Github.com/didden                         
+                                
+Location: Oskarshamn, Sweden.
+                             
+    							
+/* THANKS */
+
+
+Google
+
+Internet
+```
