@@ -14,11 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hello there stranger
+startpage: Blogposts
+author: Didrick Karlsson
 email: dk222id@student.lnu.se
 description: Website built using Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  didden
+url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: didden
 
 # Build settings
 markdown: kramdown
