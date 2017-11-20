@@ -5,9 +5,9 @@ date:   2017-11-18 08:32:29 +0100
 categories: jekyll update
 ---
 
-Open Graph is a technology first introduced by Facebook that allows the creator of a website more control how the site is presented when shared on facebook. This is done by using meta tags, which points to what should be shared.
+Open Graph is a technology first introduced by Facebook that gives the creator of a website more control of how the site is presented when shared on facebook. This is done by using meta tags, which points to what should be shared.
 
-On site site I use the bare minimum of what is required. there are a ton of different meta tags.
+On this site I use the bare minimum of what is required. there are a ton of different meta tags.
 
 __Here what my tags look like:__
 

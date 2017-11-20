@@ -1,18 +1,12 @@
 ---
 layout: page
 title: About
+intro: Hello there stranger!
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Didrick Karlsson and I'm currently studying Development and operation of software systems at Linnaeus University in Kalmar, Sweden. I live in Oskarshamn and therefore study remotely. Computers interests me greatly which is why I decided to become a software engineer. I'm generally a quick learner which is great but the fact that I'm a terrible procrastinator kind of cancels it out, unfortunately.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I feel the need to fill out the page so the footer stays at the bottom so here's a pic of me.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+![Pic of me](/img/jag.jpg)

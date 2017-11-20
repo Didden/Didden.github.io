@@ -15,7 +15,7 @@ __My humans.txt looks like this:__
 
 Dev: Didrick Karlsson
 
-Contact: dk222id [at] student.lnu.se
+Contact: dk222id@student.lnu.se
 
 Github: http://Github.com/didden                         
                                 
